@@ -2,9 +2,9 @@
 Created on Dec 14, 2015
 
 @author: sschneid
-@version: 1.0
+@version: 2.0
 '''
 
-print "I am a script in version 1."
+print "I am a script in version 2."
 
 
