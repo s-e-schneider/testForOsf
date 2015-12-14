@@ -6,4 +6,6 @@ This is version 1.0 of this test. You should only have a single python script ca
 
 printMyVersion.py
 
-in the repository.
+in the repository. 
+
+This is linked to my Eclipse.
